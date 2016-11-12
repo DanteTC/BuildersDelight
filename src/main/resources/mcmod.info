@@ -1,16 +1,19 @@
 [
-{
-  "modid": "builders_delight",
-  "name": "builders Delight",
-  "description": "A minecraft 1.10.X mod for the builders who want more different approaches to building other than Chisel and C&B.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["DanteTC"] ["W1zzRD"],
-  "credits": "W1zzRD",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
-}
+  {
+    "modid": "buildersdelight",
+    "name": "BuildersDelight",
+    "description": "A mod for the builders looking for more options than just Chisel and C&B.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "DanteTC"
+      "W1zzRD'
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
 ]
